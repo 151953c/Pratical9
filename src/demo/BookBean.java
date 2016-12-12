@@ -1,8 +1,6 @@
 package demo;
 
-/**
- * Created by 151447c on 12/12/2016.
- */
+
 import javax.annotation.PostConstruct;
 import javax.faces.application.FacesMessage;
 import javax.faces.bean.ManagedBean;

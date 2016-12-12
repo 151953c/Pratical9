@@ -1,8 +1,6 @@
 package demo;
 
-/**
- * Created by 151447c on 12/12/2016.
- */
+
 public class Book {
     private int bookId = -1;
     private String title = null;

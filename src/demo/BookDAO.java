@@ -1,8 +1,6 @@
 package demo;
 
-/**
- * Created by 151447c on 12/12/2016.
- */
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
